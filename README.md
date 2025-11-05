@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sujal Bhavsar  
 
-<!--
-**sujalbhavsar-tech/sujalbhavsar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Electronics and Communication Engineering Student*  
+💻 Learning *Data Structures & Algorithms in C++*  
+🤖 Exploring *Artificial Intelligence & Machine Learning*  
+🌐 Interested in *IoT and Smart Automation Systems*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm Learning
+- C++ Programming and Problem Solving  
+- AI/ML Fundamentals (Python, Scikit-learn)  
+- IoT Concepts and Embedded Systems  
+
+---
+
+### 🛠 Tech Stack
+*Languages:* C++, Python, C  
+*Tools:* Git, VS Code, Arduino 
+*Areas of Interest:* AI/ML, IoT, Automation  
+
+---
+
+### 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/sujalbhavsar) • [GitHub](https://github.com/sujalbhavsar)
+
+---
+
+⭐ “Code. Learn. Build. Repeat.”
